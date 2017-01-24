@@ -9,7 +9,9 @@
   "author": "Joby Joseph",
   "license": "ISC",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
     "hapi": "^16.1.0",
+    "hapi-auth-basic": "^4.2.0",
     "sqlite3": "^3.1.8"
   }
 }
